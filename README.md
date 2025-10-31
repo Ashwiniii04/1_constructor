@@ -14,12 +14,17 @@ It defines a `character` class that stores and displays details like the charact
   
 
 Tech Stack
+
+
 -Language: C++
 -Compiler: Any standard C++ compiler 
 
 
 Concepts Covered
+
 -Constructor: 
+
+
 -Special member functions that are automatically called when an object is created. They are used to initialize the object’s data members.
 Object Initialization: How memory for an object is set up and its initial values are assigned.
 
