@@ -1,11 +1,11 @@
-Fantasy Character Constructor (C++)
+# Fantasy Character Constructor (C++)
 
 This project demonstrates the concept of **constructors** in C++ using a simple fantasy-themed example.  
 It defines a `character` class that stores and displays details like the character’s name, age, race, height, and attack power.
 
 
 
- Project Overview
+ # Project Overview
 
 - Uses **object-oriented programming (OOP)** concepts  
 - Demonstrates **default and parameterized constructors**  
@@ -13,7 +13,7 @@ It defines a `character` class that stores and displays details like the charact
 - Beginner-friendly example to understand C++ class initialization
   
 
-Tech Stack
+# Tech Stack
 
 
 -Language: C++
@@ -21,7 +21,7 @@ Tech Stack
 -Compiler: Any standard C++ compiler 
 
 
-Concepts Covered
+# Concepts Covered
 
 -Constructor: 
 
@@ -30,12 +30,12 @@ Concepts Covered
 Object Initialization: How memory for an object is set up and its initial values are assigned.
 
 
- How to Run
+#  How to Run
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/Ashwiniii04/1_constructor
 
 
-Acknowledgments
+# Acknowledgments
 -This example is based on fundamental C++ programming concepts.
